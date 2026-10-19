@@ -1,0 +1,6 @@
+TODO list:
+- scripting ?
+- collision mesh/box/sphere/cylinder debug render ?
+Bugs:
+- no animation transitioning
+- pag is slow and choppy sometimes (ff005b59, smoke near bridge)
